@@ -3,7 +3,7 @@ Bagian dari program solver society oleh Iykra.
 
 Melakukan analisis data lowongan pekerjaan dari Jobstreet dan Glints.
 
-# Hasil dashboard
+## Dashboard
 [Dashboard Job Demand Indonesia](https://lalaucrit.carto.com/builder/0449b476-c30c-4327-b126-0650dd8c5260/embed) / [Alternative](https://yasirabd.carto.com/builder/bfc3f688-9553-43a1-ae85-5dc0115dc822/embed)
 
 ## Catatan penting :exclamation:
@@ -19,13 +19,13 @@ inlex_url = "[path-to-file]/inlex.txt"
 cattable_url = "[path-to-file]/cattable.txt"                
 ```
 
-# Tim
+## Tim
 1. Mohammad Imron
 2. Yasir Abdur Rohman
 3. Leny Damayanti
 4. Siska Wulansari
 
-## Credit
+## Credits
 Part-of-Speech tagging Bahasa Indonesia.
 [INACL journal](http://inacl.id/journal/index.php/jlk/article/view/20)
 > A. F. Wicaksono and P. Ayu, “HMM Based Part-of-Speech Tagger for Bahasa Indonesia,” in Prooceedings of 4th International MALINDO (Malay and Indonesian Language) Workshop, 2010, no. August, pp. 1–7.
