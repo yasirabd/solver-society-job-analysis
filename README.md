@@ -23,10 +23,13 @@ cattable_url = "[path-to-file]/cattable.txt"
 ```
 
 ## Tim
+Mentor: Nurvirta Monarizqa ([@nmonarizqa](https://twitter.com/nmonarizqa))
 1. Mohammad Imron
-2. Yasir Abdur Rohman
+2. Yasir Abdur Rohman ([@yasirabd30](https://twitter.com/yasirabd30))
 3. Leny Damayanti
 4. Siska Wulansari
+
+
 
 ## Credits
 Part-of-Speech tagging Bahasa Indonesia.
