@@ -3,6 +3,8 @@ Bagian dari program solver society oleh Iykra.
 
 Melakukan analisis data lowongan pekerjaan dari Jobstreet dan Glints.
 
+Cara crawling data lowongan pekerjaan lihat ke repository [crawling loker indonesia](https://github.com/yasirabd/crawling-loker-indonesia)
+
 ## Dashboard
 [Dashboard Job Demand Indonesia](https://lalaucrit.carto.com/builder/0449b476-c30c-4327-b126-0650dd8c5260/embed) / [Alternative](https://yasirabd.carto.com/builder/bfc3f688-9553-43a1-ae85-5dc0115dc822/embed)
 ![dashboard](https://github.com/yasirabd/solver-society-job-analysis/blob/main/carto_job_demand.PNG "Dashboard Job Demand Indonesia")
