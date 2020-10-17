@@ -3,7 +3,10 @@ Bagian dari program solver society oleh Iykra.
 
 Melakukan analisis data lowongan pekerjaan dari Jobstreet dan Glints.
 
-## Catatan penting :exclamation::exclamation:
+# Hasil dashboard
+[Dashboard Job Demand Indonesia](https://lalaucrit.carto.com/builder/0449b476-c30c-4327-b126-0650dd8c5260/embed) / [Alternative](https://yasirabd.carto.com/builder/bfc3f688-9553-43a1-ae85-5dc0115dc822/embed)
+
+## Catatan penting :exclamation:
 1. Pastikan path/lokasi pada seluruh data sudah sesuai ketika akan load data.
 2. Pada lexicon dan ngram path di notebook 2_3_3 dan 2_3_4, pastikan sesuai.
 ```
@@ -15,6 +18,12 @@ ngram_path = "[path-to-file]/Ngram.trn"
 inlex_url = "[path-to-file]/inlex.txt"
 cattable_url = "[path-to-file]/cattable.txt"                
 ```
+
+# Tim
+1. Mohammad Imron
+2. Yasir Abdur Rohman
+3. Leny Damayanti
+4. Siska Wulansari
 
 ## Credit
 Part-of-Speech tagging Bahasa Indonesia.
