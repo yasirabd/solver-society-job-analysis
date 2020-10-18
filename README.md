@@ -24,10 +24,10 @@ cattable_url = "[path-to-file]/cattable.txt"
 
 ## Tim
 Mentor: Nurvirta Monarizqa ([@nmonarizqa](https://twitter.com/nmonarizqa))
-1. Mohammad Imron
+1. Mohammad Imron (@mohammad-imron)
 2. Yasir Abdur Rohman ([@yasirabd30](https://twitter.com/yasirabd30))
-3. Leny Damayanti
-4. Siska Wulansari
+3. Leny Damayanti ([LinkedIn](https://www.linkedin.com/in/leny-damayanti-9242939/))
+4. Siska Wulansari ([LinkedIn](https://www.linkedin.com/in/siska-wulansari-6a6180190/))
 
 
 
